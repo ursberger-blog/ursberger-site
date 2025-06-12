@@ -1,1 +1,25 @@
+- name: SVP
+  farbe: "#000000"
+  logo: /assets/logos/svp.svg
+  framing: "Diktatvertrag", "Fremdbestimmung", "Selbstaufgabe"
+  position: rechts-aussen
+  spitzname: "Pinocchio-Partei"
+
+- name: FDP
+  farbe: "#0056A1"
+  logo: /assets/logos/fdp.svg
+  framing: "Verantwortung", "Offene Märkte"
+  position: wirtschaftsliberal
+
+- name: Die Mitte
+  farbe: "#FFA500"
+  logo: /assets/logos/die-mitte.svg
+  framing: "Schweizer Weg", "Kompromiss"
+  position: zentristisch
+
+- name: SP
+  farbe: "#E3000B"
+  logo: /assets/logos/sp.svg
+  framing: "Sozialer Schutz", "EU-Koordination"
+  position: mitte-links
 
