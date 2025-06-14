@@ -15,4 +15,4 @@
 ---
 
 ⬅️ [Zurück zu Anhang VII – Abschnitt 7](anhang_VII_abschnitt_7.md)  
-➡️ [Weiter zu Anhang VIII – Öffentliches Gesundheitswesen](anhang_VIII.md)
+➡️ [Weiter zu Anhang VIII – Übergangsregelungen für Liechtenstein](anhang_VIII.md)
